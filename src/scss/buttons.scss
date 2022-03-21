@@ -1,0 +1,12 @@
+@import "./_variables.scss";
+
+button {
+    color:$kimids-color-white;
+    font-weight: $kimids-button-text-default-font-weight;
+    font-size: $kimids-button-text-default-font-size;
+    background-color:$kimids-button-color-default;
+    padding:$kimids-button-padding-topbottom $kimids-button-padding-leftright;
+    border-radius: $kimids-button-border-radius;
+    border:$kimids-button-border-none;
+    text-transform: $kimids-button-text-default-text-case;
+}
