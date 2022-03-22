@@ -1,4 +1,4 @@
-# Practice project for using style dictionary cli build tool with Figma design tokens.
+# Practice project with Style Dictionary and Figma design tokens
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
