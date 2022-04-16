@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "chromatic": "^6.5.4",
     "style-dictionary": "^3.7.0"
   }
 }
