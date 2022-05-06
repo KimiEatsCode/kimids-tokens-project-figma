@@ -2,6 +2,10 @@
 // Do not edit directly
 // Generated on Mon, 18 Apr 2022 19:36:39 GMT
 
+ /**
+  * @tokens Colors
+  * @presenter Color
+  */
 $kimids-color-black: #000;
 $kimids-color-white: #fff;
 $kimids-color-grey: rgba(0,0,0,0.5);
@@ -10,6 +14,12 @@ $kimids-color-smoothteal: #DAF5F2;
 $kimids-color-red: red;
 $kimids-color-purple: #6A5096;
 $kimids-color-ltpurple: rgba(106,89,150,25%);
+
+ /**
+  * @tokens Fonts
+  * @presenter Fonts
+  */
+
 $kimids-h1-heading-main-font-family: Helvetica Neue;
 $kimids-h1-heading-main-font-weight: Regular;
 $kimids-h1-heading-main-line-height: AUTO;
@@ -36,6 +46,12 @@ $kimids-body-paragraph-bold-text-decoration: none;
 $kimids-body-paragraph-bold-text-case: none;
 $kimids-spacing-small: 32px;
 $kimids-spacing-medium: 96px;
+
+ /**
+  * @tokens Buttons
+  * @presenter Buttons
+  */
+
 $kimids-button-text-default-font-family: Helvetica Neue;
 $kimids-button-text-default-font-weight: Bold;
 $kimids-button-text-default-line-height: AUTO;

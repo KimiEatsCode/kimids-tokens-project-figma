@@ -1,6 +1,6 @@
 import logo from "./images/group.png";
 import "./App.scss";
-import styled from "styled-components";
+// import styled from "styled-components";
 
 // const Button = styled.button`
 //   /* Adapt the colors based on primary prop */
